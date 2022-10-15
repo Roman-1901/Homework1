@@ -13,6 +13,5 @@ public class Main {
         jf.setVisible(true);
         lb.setVisible(true);
 
-
     }
 }
