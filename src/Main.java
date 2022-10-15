@@ -10,7 +10,6 @@ public class Main {
         JLabel lb = new JLabel("Рома, не Димонь=)))");
         jf.add(lb);
         jf.setBounds(1030,450,500,400);
-
         jf.setVisible(true);
         lb.setVisible(true);
 
